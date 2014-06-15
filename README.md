@@ -6,4 +6,4 @@ Implementation of all major algorithms
 - Sort
 - Search
 - Distributed
-- Graph
+- Graph problems
